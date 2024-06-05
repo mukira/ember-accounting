@@ -1,5 +1,5 @@
 {
-    "name": "@fleetbase/ember-accounting",
+    "name": "@lipagas/ember-accounting",
     "version": "0.0.1",
     "description": "Updated port of the great accounting.js library to ES6 modules that integrates seamlessly with ember-cli",
     "keywords": [
@@ -7,7 +7,7 @@
         "fleetbase",
         "fleetbase-accounting"
     ],
-    "repository": "https://github.com/fleetbase/ember-accounting",
+    "repository": "https://github.com/mukira/ember-accounting",
     "license": "MIT",
     "author": "Fleetbase Pte Ltd <hello@fleetbase.io>",
     "directories": {
