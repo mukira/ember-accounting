@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-accounting/utils/format-column';
+export { default } from '@lipagas/ember-accounting/utils/format-column';

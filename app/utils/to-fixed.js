@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-accounting/utils/to-fixed';
+export { default } from '@lipagas/ember-accounting/utils/to-fixed';

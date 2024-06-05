@@ -1,4 +1,4 @@
-# @fleetbase/ember-accounting
+# @lipagas/ember-accounting
 
 This is a fork of [ember-cli-accounting](https://github.com/milindalvares/ember-cli-accounting) which was a port of the great [accounting.js](https://github.com/openexchangerates/accounting.js) library to
 ES6 modules that integrates seamlessly with ember-cli and the Fleetbase ecosystem.
@@ -8,7 +8,7 @@ ES6 modules that integrates seamlessly with ember-cli and the Fleetbase ecosyste
 Just add like any other ember-cli addon:
 
 ```bash
-npm install @fleetbase/ember-accounting
+npm install @lipagas/ember-accounting
 ```
 
 ## Ember compatiblity
@@ -22,13 +22,13 @@ Compatible with Ember version 4.0 and above
 You no longer need to access the global accounting, you can import only what you need:
 
 ```js
-import formatMoney from '@fleetbase/ember-accounting/format-money'
+import formatMoney from '@lipagas/ember-accounting/format-money'
 ```
 
 Although you can import everything as expected:
 
 ```js
-import accounting from '@fleetbase/ember-accounting'
+import accounting from '@lipagas/ember-accounting'
 ```
 
 ### Handlebars helpers
@@ -55,7 +55,7 @@ repeat over and over the options in the helpers.
 Use something like this:
 ```js
 // app/initializers/accounting.js
-import { currency, number } from '@fleetbase/ember-accounting/settings';
+import { currency, number } from '@lipagas/ember-accounting/settings';
 
 export default {
   name: 'accounting.js',

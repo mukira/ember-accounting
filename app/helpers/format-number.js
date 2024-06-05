@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-accounting/helpers/format-number';
+export { default } from '@lipagas/ember-accounting/helpers/format-number';
