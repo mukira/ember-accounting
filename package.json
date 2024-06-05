@@ -1,6 +1,6 @@
 {
     "name": "@lipagas/ember-accounting",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Updated port of the great accounting.js library to ES6 modules that integrates seamlessly with ember-cli",
     "keywords": [
         "ember-addon",
